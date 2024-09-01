@@ -65,7 +65,7 @@ main {
     content: "";
     position: absolute;
     inset: 0;
-    background-image: url(/images/mediabg.png);
+    background-image: url(../images/mediabg.png);
     background-size: cover;
     background-position: bottom;
     z-index: -1;

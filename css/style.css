@@ -137,7 +137,7 @@ main {
     display: flex;
     align-items: center;
     flex-direction: column;
-    background-image: url("/images/pattern1.png");
+    background-image: url("../images/pattern1.png");
     background-size: cover;
     border-top: 3px solid var(--cor2);
 }

@@ -150,7 +150,8 @@ main {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #38b6ff77;
+    background-color: #38b6ffc5;
+    border-radius: 15px;
     backdrop-filter: blur(3px);
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -182,4 +183,12 @@ main {
 
 .fa-square-whatsapp:active {
     transform: scale(1.1);
+}
+
+footer {
+    text-align: center;
+    font-size: x-small;
+    padding: 20px 50px;
+    border-top: 3px solid var(--cor2);
+    background-color: var(--cor1);
 }
